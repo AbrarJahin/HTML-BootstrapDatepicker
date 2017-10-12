@@ -1,7 +1,7 @@
 // When the document is ready
 $(document).ready(function ()
 {
-	$('#example1').datepicker({
+	$('.DatePicker').datepicker({
 		format: "dd/mm/yyyy"
 	});  
 
